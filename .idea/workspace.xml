@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef156780-db0a-4f1b-85f6-817c48857d7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python_aulas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="8" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000064" />
+      <entry key="MS500" value="1.001456082069559" />
+      <entry key="S2" value="1.2490919470529576" />
+      <entry key="S5" value="1.9294174675759188" />
+      <entry key="S10" value="3.0726251279997996" />
+      <entry key="S30" value="6.260372302929972" />
+      <entry key="S60" value="8.257520761138714" />
+      <entry key="M2" value="11.8522455392534" />
+      <entry key="M5" value="32.12102274296875" />
+      <entry key="M10" value="63.25029613860533" />
+      <entry key="M15" value="84.28533770413485" />
+      <entry key="M30" value="118.13839040696557" />
+      <entry key="H1" value="143.88143275951876" />
+      <entry key="H2" value="160.3174335353074" />
+      <entry key="H4" value="169.70116805534087" />
+      <entry key="D1" value="178.21494853303466" />
+      <entry key="W1" value="179.74324268642658" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.2776981753377246E-197" />
+      <entry key="S5" value="2.834553372074933E-79" />
+      <entry key="S10" value="5.330219390325076E-40" />
+      <entry key="S30" value="8.956245473720537E-14" />
+      <entry key="S60" value="3.769598150931556E-7" />
+      <entry key="M2" value="8.378789798361201E-4" />
+      <entry key="M5" value="0.09394910754625545" />
+      <entry key="M10" value="0.5701081117551436" />
+      <entry key="M15" value="1.176479514189028" />
+      <entry key="M30" value="2.70037216804386" />
+      <entry key="H1" value="4.28161238701109" />
+      <entry key="H2" value="5.454055636897149" />
+      <entry key="H4" value="6.173144435672169" />
+      <entry key="D1" value="6.854000771898127" />
+      <entry key="W1" value="6.978932462724549" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8827029962906603" />
+      <entry key="MS500" value="0.9767736242276979" />
+      <entry key="S2" value="1.2410550812117453" />
+      <entry key="S5" value="1.9115319337766707" />
+      <entry key="S10" value="3.011933964391827" />
+      <entry key="S30" value="6.164809659644944" />
+      <entry key="S60" value="8.183874420395222" />
+      <entry key="M2" value="11.803755624266342" />
+      <entry key="M5" value="32.182489559336894" />
+      <entry key="M10" value="63.79184957092256" />
+      <entry key="M15" value="85.4349763742424" />
+      <entry key="M30" value="120.81686284918635" />
+      <entry key="H1" value="148.14801157050718" />
+      <entry key="H2" value="165.76250030977738" />
+      <entry key="H4" value="175.86937185840665" />
+      <entry key="D1" value="185.0680559004028" />
+      <entry key="W1" value="186.72204569162392" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EdsBQhWwNoJMQNNJOQKxTSh3D9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula08a.executor": "Run",
+    "Python.aula09.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/warle/OneDrive/Documentos/Python/Python_aulas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.aula09">
+    <configuration name="aula08a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_aulas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula08a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_aulas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula09" />
+        <item itemvalue="Python.aula08a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef156780-db0a-4f1b-85f6-817c48857d7e" name="Changes" comment="" />
+      <created>1780519644474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780519644474</updated>
+      <workItem from="1780519645492" duration="64000" />
+      <workItem from="1780519781172" duration="2924000" />
+      <workItem from="1780522793045" duration="183000" />
+      <workItem from="1780522994099" duration="601000" />
+      <workItem from="1780679562133" duration="33000" />
+      <workItem from="1780687555700" duration="1584000" />
+      <workItem from="1781127297818" duration="1142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_aulas$aula08a.coverage" NAME="aula08a Coverage Results" MODIFIED="1780522089851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_aulas$aula09.coverage" NAME="aula09 Coverage Results" MODIFIED="1781127990306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
